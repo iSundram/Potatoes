@@ -1,0 +1,37 @@
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg486453" viewBox="0 0 1024 768" height="768px" width="1024px" version="1.1">
+  <metadata id="metadata486459">
+    <rdf:rdf>
+      <cc:work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"></dc:type>
+      </cc:work>
+    </rdf:rdf>
+  </metadata>
+  <defs id="defs486457"></defs>
+  <linearGradient spreadMethod="pad" y2="30%" x2="-10%" y1="120%" x1="30%" id="3d_gradient2-logo-b046681d-28a0-4e9f-bf28-79e3e7bac37c">
+    <stop id="stop486434" stop-opacity="1" stop-color="#ffffff" offset="0%"></stop>
+    <stop id="stop486436" stop-opacity="1" stop-color="#000000" offset="100%"></stop>
+  </linearGradient>
+  <linearGradient gradientTransform="rotate(-30)" spreadMethod="pad" y2="30%" x2="-10%" y1="120%" x1="30%" id="3d_gradient3-logo-b046681d-28a0-4e9f-bf28-79e3e7bac37c">
+    <stop id="stop486439" stop-opacity="1" stop-color="#ffffff" offset="0%"></stop>
+    <stop id="stop486441" stop-opacity="1" stop-color="#cccccc" offset="50%"></stop>
+    <stop id="stop486443" stop-opacity="1" stop-color="#000000" offset="100%"></stop>
+  </linearGradient>
+  <g id="logo-group">
+    <image xlink:href="" id="container" x="272" y="144" width="480" height="480" style="display: none;" transform="translate(0 0)"></image>
+    <g id="logo-center" transform="translate(-37.29468750000001 0)">
+      <image xlink:href="" id="icon_container" x="0" y="0" style="display: none;"></image>
+      <g id="slogan" style="font-style:normal;font-weight:normal;font-size:32px;line-height:1;font-family:'Brandmark Sans 35';font-variant-ligatures:none;text-align:center;text-anchor:middle" transform="translate(0 0)"></g>
+      <g id="title" style="font-style:normal;font-weight:normal;font-size:72px;line-height:1;font-family:'Brandmark Sans 35';font-variant-ligatures:normal;text-align:center;text-anchor:middle" transform="translate(0 0)">
+        <path id="path486462" style="font-style:normal;font-weight:normal;font-size:72px;line-height:1;font-family:'Brandmark Sans 35';font-variant-ligatures:normal;text-align:center;text-anchor:middle" d="m 433.28881,-50.4 h -64.8 l 23.76,50.4 16.92,-36 -6.048,22.464 6.408,13.536 z" stroke-width="0" stroke-linejoin="miter" stroke-miterlimit="2" fill="#000000" stroke="#000000" transform="translate(0 348.76) translate(50 -73.12) scale(3.5) translate(-368.48881 50.4)"></path>
+        <path id="path486464" style="font-style:normal;font-weight:normal;font-size:72px;line-height:1;font-family:'Brandmark Sans 35';font-variant-ligatures:normal;text-align:center;text-anchor:middle" d="m 452.40369,-25.2 c 1.944,0 2.952,0.936 2.952,2.664 V 0 h 13.68 v -23.544 c 0,-7.848 -2.448,-13.536 -12.24,-13.536 -7.416,0 -10.296,7.272 -11.448,12.816 h -0.576 l 5.4,-28.296 h -14.4 V 0 h 13.68 v -22.536 c 0,-1.728 0.864,-2.664 2.952,-2.664 z" stroke-width="0" stroke-linejoin="miter" stroke-miterlimit="2" fill="#000000" stroke="#000000" transform="translate(0 348.76) translate(285.4900799999998 -80.68) scale(3.5) translate(-435.77169 52.56)"></path>
+        <path id="path486466" style="font-style:normal;font-weight:normal;font-size:72px;line-height:1;font-family:'Brandmark Sans 35';font-variant-ligatures:normal;text-align:center;text-anchor:middle" d="m 496.34506,-3.312 0.72,0.288 c -1.368,3.024 -4.392,5.112 -8.64,5.112 h -9.504 l 2.592,12.312 h 8.856 c 11.016,0 16.272,-10.872 16.272,-18.144 V -36 h -13.68 v 22.464 c 0,1.656 -0.864,2.664 -2.952,2.664 -1.944,0 -2.952,-0.936 -2.952,-2.664 V -36 h -13.68 v 22.032 c 0,7.848 4.968,13.536 14.328,13.536 3.744,0 6.912,-1.008 8.64,-2.88 z" stroke-width="0" stroke-linejoin="miter" stroke-miterlimit="2" fill="#000000" stroke="#000000" transform="translate(0 348.76) translate(417.1088749999997 -22.72) scale(3.5) translate(-473.37706 36)"></path>
+        <path id="path486468" style="font-style:normal;font-weight:normal;font-size:72px;line-height:1;font-family:'Brandmark Sans 35';font-variant-ligatures:normal;text-align:center;text-anchor:middle" d="m 573.91381,-50.4 h -64.8 l 23.76,50.4 16.92,-36 -6.048,22.464 6.408,13.536 z" stroke-width="0" stroke-linejoin="miter" stroke-miterlimit="2" fill="#8f97a2" stroke="#8f97a2" transform="translate(0 348.76) translate(542.1874999999998 -73.12) scale(3.5) translate(-509.11381 50.4)"></path>
+        <path id="path486470" style="font-style:normal;font-weight:normal;font-size:72px;line-height:1;font-family:'Brandmark Sans 35';font-variant-ligatures:normal;text-align:center;text-anchor:middle" d="m 576.03669,-46.08 c 0,3.96 3.24,7.2 7.2,7.2 3.96,0 7.2,-3.24 7.2,-7.2 0,-3.96 -3.24,-7.2 -7.2,-7.2 -3.96,0 -7.2,3.24 -7.2,7.2 z m 0.36,46.08 h 13.68 v -36 h -13.68 z" stroke-width="0" stroke-linejoin="miter" stroke-miterlimit="2" fill="#8f97a2" stroke="#8f97a2" transform="translate(0 348.76) translate(776.4175799999998 -83.20000000000002) scale(3.5) translate(-576.03669 53.28)"></path>
+        <path id="path486472" style="font-style:normal;font-weight:normal;font-size:72px;line-height:1;font-family:'Brandmark Sans 35';font-variant-ligatures:normal;text-align:center;text-anchor:middle" d="m 609.06106,-22.536 c 0,-1.728 0.864,-2.664 2.952,-2.664 h 6.192 v -11.88 h -3.24 c -8.136,0 -11.376,7.272 -12.168,12.816 h -0.576 c 0.504,-3.888 1.656,-7.848 3.6,-11.736 h -10.44 V 0 h 13.68 z" stroke-width="0" stroke-linejoin="miter" stroke-miterlimit="2" fill="#8f97a2" stroke="#8f97a2" transform="translate(0 348.76) translate(844.122875 -26.5) scale(3.5) translate(-595.38106 37.08)"></path>
+        <path id="path486474" style="font-style:normal;font-weight:normal;font-size:72px;line-height:1;font-family:'Brandmark Sans 35';font-variant-ligatures:normal;text-align:center;text-anchor:middle" d="m 633.71206,-13.464 v -2.376 h 20.088 v -3.024 c 0,-12.312 -5.4,-18.144 -16.776,-18.144 -10.8,0 -16.704,5.688 -16.704,16.704 v 5.832 c 0,9.864 5.904,15.552 16.704,15.552 9.432,0 14.76,-3.96 16.272,-9.72 l -12.456,-4.608 c -0.648,1.656 -1.8,2.448 -3.6,2.448 -2.376,0 -3.528,-0.936 -3.528,-2.664 z m 0,-7.56 v -1.44 c 0,-1.728 1.152,-2.664 3.312,-2.664 2.304,0 3.312,1.008 3.312,2.664 v 1.44 z" stroke-width="0" stroke-linejoin="miter" stroke-miterlimit="2" fill="#8f97a2" stroke="#8f97a2" transform="translate(0 348.76) translate(931.4093750000001 -26.24800000000002) scale(3.5) translate(-620.32006 37.008)"></path>
+      </g>
+      <image xlink:href="" id="icon" x="0" y="0" style="display: none;"></image>
+    </g>
+  </g>
+</svg>
